@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32142857">
-              <caret line="730" column="83" selection-start-line="730" selection-start-column="83" selection-end-line="730" selection-end-column="83" />
+            <state vertical-scroll-proportion="0.73392856">
+              <caret line="232" column="42" selection-start-line="232" selection-start-column="42" selection-end-line="232" selection-end-column="42" />
               <folding>
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -136,7 +136,13 @@
       <option name="project" value="LOCAL" />
       <updated>1450096668519</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Atualização Bruno - Cotato&#10;&#10;- Atualizaçao simples da div de contato">
+      <created>1450097359054</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1450097359054</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -179,7 +185,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Atualização Bruno&#10;&#10;- Criação dos Planos com links para modais detalhando cada pacote" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualização Bruno&#10;&#10;- Criação dos Planos com links para modais detalhando cada pacote" />
+    <MESSAGE value="Atualização Bruno - Cotato&#10;&#10;- Atualizaçao simples da div de contato" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização Bruno - Cotato&#10;&#10;- Atualizaçao simples da div de contato" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -450,8 +457,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32142857">
-          <caret line="730" column="83" selection-start-line="730" selection-start-column="83" selection-end-line="730" selection-end-column="83" />
+        <state vertical-scroll-proportion="0.73392856">
+          <caret line="232" column="42" selection-start-line="232" selection-start-column="42" selection-end-line="232" selection-end-column="42" />
           <folding>
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
